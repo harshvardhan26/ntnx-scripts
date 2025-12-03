@@ -1,0 +1,359 @@
+Name,Efficiency,Efficiency Detail,Project,Owner,Cluster
+vm1,-,-,,,cluster1
+vm2,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.74%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm3,-,-,_internal,admin,cluster2
+vm4,-,-,_internal,admin,cluster2
+vm5,-,-,_internal,admin,cluster2
+vm6,-,-,_internal,admin,cluster3
+vm7,-,-,_internal,admin,cluster3
+vm8,Overprovisioned,Overprovisioned: Max hourly average CPU usage (5.51%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm9,-,-,_internal,admin,cluster1
+vm10,-,-,_internal,admin,cluster1
+vm11,Overprovisioned,Overprovisioned: Max hourly average CPU usage (7.15%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm12,Overprovisioned,Overprovisioned: Max hourly average CPU usage (48.65%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm13,-,-,_internal,admin,cluster1
+vm14,Overprovisioned,Overprovisioned: Max hourly average CPU usage (12.62%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm15,-,-,_internal,admin,cluster1
+vm16,-,-,_internal,admin,cluster1
+vm17,-,-,_internal,admin,cluster1
+vm18,-,-,_internal,admin,cluster1
+vm19,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.1%) was below the minimum threshold (20%) and max hourly average memory usage (6.01%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm20,Overprovisioned,Overprovisioned: Max hourly average CPU usage (42.94%) was below the minimum threshold (50%) and max hourly average memory usage (14.98%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm21,-,-,_internal,admin,cluster1
+vm22,Overprovisioned,Overprovisioned: Max hourly average CPU usage (5.02%) was below the minimum threshold (20%) and max hourly average memory usage (33.83%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm23,-,-,_internal,admin,cluster1
+vm24,-,-,_internal,admin,cluster1
+vm25,-,-,_internal,admin,cluster1
+vm26,-,-,_internal,admin,cluster1
+vm27,-,-,,,cluster1
+vm28,-,-,_internal,admin,cluster1
+vm29,-,-,_internal,admin,cluster1
+vm30,-,-,_internal,admin,cluster1
+vm31,-,-,_internal,admin,cluster1
+vm32,-,-,_internal,admin,cluster1
+vm33,-,-,_internal,admin,cluster1
+vm34,-,-,_internal,admin,cluster1
+vm35,-,-,_internal,admin,cluster1
+vm36,Overprovisioned,Overprovisioned: Max hourly average CPU usage (27.88%) was below the minimum threshold (50%) and max hourly average memory usage (14.86%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm37,Overprovisioned,Overprovisioned: Max hourly average CPU usage (3.19%) was below the minimum threshold (20%) and max hourly average memory usage (6.09%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm38,-,-,_internal,admin,cluster1
+vm39,Overprovisioned,Overprovisioned: Max hourly average CPU usage (35.08%) was below the minimum threshold (50%) and max hourly average memory usage (14.18%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm40,-,-,_internal,admin,cluster1
+vm41,-,-,_internal,admin,cluster1
+vm42,-,-,_internal,admin,cluster1
+vm43,Overprovisioned,Overprovisioned: Max hourly average CPU usage (45.03%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm44,-,-,_internal,admin,cluster1
+vm45,Overprovisioned,Overprovisioned: Max hourly average CPU usage (42.38%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm46,-,-,_internal,admin,cluster1
+vm47,-,-,_internal,admin,cluster1
+vm48,-,-,_internal,admin,cluster1
+vm49,-,-,_internal,admin,cluster1
+vm50,-,-,_internal,admin,cluster1
+vm51,Inactive,Inactive: The VM was powered off for the last 36 days.,_internal,admin,cluster3
+vm52,-,-,,,cluster1
+vm53,-,-,,,cluster1
+vm54,-,-,_internal,admin,cluster1
+vm55,-,-,_internal,admin,cluster2
+vm56,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.55%) was below the minimum threshold (20%) and max hourly average memory usage (42.84%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,,admin,cluster2
+vm57,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.65%) was below the minimum threshold (20%) and max hourly average memory usage (47.85%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,,admin,cluster1
+vm58,-,-,_internal,admin,cluster3
+vm59,-,-,_internal,admin,cluster2
+vm60,-,-,_internal,admin,cluster1
+vm61,Inactive,Inactive: The VM was powered off for the last 62 days.,_internal,admin,cluster1
+vm62,-,-,_internal,admin,cluster1
+vm63,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.89%) was below the minimum threshold (20%) and max hourly average memory usage (8.63%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm64,-,-,_internal,admin,cluster2
+vm65,-,-,_internal,admin,cluster2
+vm66,Overprovisioned,Overprovisioned: Max hourly average CPU usage (16.41%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm67,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.46%) was below the minimum threshold (20%) and max hourly average memory usage (47.97%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm68,Overprovisioned,Overprovisioned: Max hourly average CPU usage (11.34%) was below the minimum threshold (20%) and max hourly average memory usage (45.31%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,,,cluster1
+vm69,-,-,_internal,admin,cluster3
+vm70,-,-,_internal,admin,cluster2
+vm71,Overprovisioned,Overprovisioned: Max hourly average CPU usage (4.91%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm72,-,-,_internal,admin,cluster2
+vm73,-,-,_internal,admin,cluster2
+vm74,-,-,_internal,admin,cluster2
+vm75,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.16%) was below the minimum threshold (20%) and max hourly average memory usage (47.56%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm76,Overprovisioned,Overprovisioned: Max hourly average CPU usage (5.67%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm77,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (96.19%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (17.8%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster2
+vm78,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.14%) was below the minimum threshold (20%) and max hourly average memory usage (48.7%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm79,-,-,_internal,admin,cluster2
+vm80,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.05%) was below the minimum threshold (20%) and max hourly average memory usage (12.67%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm81,-,-,_internal,admin,cluster3
+vm82,-,-,_internal,admin,cluster3
+vm83,Overprovisioned,Overprovisioned: Max hourly average CPU usage (21.52%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm84,-,-,_internal,admin,cluster3
+vm85,-,-,_internal,admin,cluster3
+vm86,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.84%) was below the minimum threshold (20%) and max hourly average memory usage (35.8%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm87,-,-,_internal,admin,cluster3
+vm88,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (92.68%) was above the maximum threshold (90%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (35.33%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm89,-,-,_internal,admin,cluster3
+vm90,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.97%) was below the minimum threshold (20%) and max hourly average memory usage (35.95%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm91,-,-,_internal,admin,cluster3
+vm92,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.94%) was below the minimum threshold (20%) and max hourly average memory usage (21.93%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm93,-,-,_internal,admin,cluster3
+vm94,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.84%) was below the minimum threshold (20%) and max hourly average memory usage (21.78%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm95,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.04%) was below the minimum threshold (20%) and max hourly average memory usage (23.93%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm96,-,-,_internal,admin,cluster3
+vm97,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.07%) was below the minimum threshold (20%) and max hourly average memory usage (29.69%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm98,-,-,_internal,admin,cluster3
+vm99,-,-,_internal,admin,cluster3
+vm100,-,-,_internal,admin,cluster3
+vm101,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.9%) was below the minimum threshold (20%) and max hourly average memory usage (22.41%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm102,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.0%) was below the minimum threshold (20%) and max hourly average memory usage (10.55%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm103,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.03%) was below the minimum threshold (20%) and max hourly average memory usage (36.2%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm104,-,-,_internal,admin,cluster2
+vm105,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.2%) was below the minimum threshold (20%) and max hourly average memory usage (15.23%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm106,-,-,_internal,admin,cluster3
+vm107,-,-,_internal,admin,cluster2
+vm108,Overprovisioned,Overprovisioned: Max hourly average CPU usage (9.41%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm109,-,-,_internal,admin,cluster1
+vm110,-,-,_internal,admin,cluster1
+vm111,-,-,_internal,admin,cluster1
+vm112,-,-,_internal,admin,cluster1
+vm113,-,-,_internal,admin,cluster1
+vm114,-,-,_internal,admin,cluster1
+vm115,-,-,_internal,admin,cluster3
+vm116,-,-,_internal,admin,cluster1
+vm117,-,-,_internal,admin,cluster1
+vm118,-,-,_internal,admin,cluster2
+vm119,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.11%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm120,-,-,_internal,admin,cluster2
+vm121,-,-,_internal,admin,cluster2
+vm122,Overprovisioned,Overprovisioned: Max hourly average CPU usage (44.53%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm123,Overprovisioned,Overprovisioned: Max hourly average CPU usage (4.69%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm124,-,-,_internal,admin,cluster2
+vm125,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.04%) was below the minimum threshold (20%) and max hourly average memory usage (21.53%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm126,-,-,_internal,admin,cluster2
+vm127,-,-,_internal,admin,cluster2
+vm128,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (95.06%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (10.33%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster2
+vm129,-,-,_internal,admin,cluster2
+vm130,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.97%) was below the minimum threshold (20%) and max hourly average memory usage (17.05%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm131,-,-,_internal,admin,cluster2
+vm132,-,-,_internal,admin,cluster2
+vm133,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (93.64%) was above the maximum threshold (90%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (1.46%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster2
+vm134,Overprovisioned,Overprovisioned: Max hourly average CPU usage (16.3%) was below the minimum threshold (20%) and max hourly average memory usage (41.66%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm135,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.22%) was below the minimum threshold (20%) and max hourly average memory usage (22.9%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm136,Overprovisioned,Overprovisioned: Max hourly average CPU usage (3.2%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm137,-,-,_internal,admin,cluster2
+vm138,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (97.7%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (1.57%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm139,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (96.09%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (4.61%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm140,Overprovisioned,Overprovisioned: Max hourly average CPU usage (8.87%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm141,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.98%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm142,-,-,_internal,admin,cluster3
+vm143,-,-,_internal,admin,cluster3
+vm144,-,-,_internal,admin,cluster3
+vm145,-,-,_internal,admin,cluster3
+vm146,-,-,_internal,admin,cluster3
+vm147,-,-,_internal,admin,cluster3
+vm148,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (90.47%) was above the maximum threshold (90%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (2.31%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm149,-,-,_internal,admin,cluster3
+vm150,Overprovisioned,Overprovisioned: Max hourly average CPU usage (14.66%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm151,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.85%) was below the minimum threshold (20%) and max hourly average memory usage (48.66%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm152,-,-,_internal,admin,cluster3
+vm153,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.72%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm154,-,-,_internal,admin,cluster3
+vm155,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (96.03%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (1.0%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm156,-,-,_internal,admin,cluster3
+vm157,-,-,_internal,admin,cluster3
+vm158,-,-,_internal,admin,cluster3
+vm159,-,-,_internal,admin,cluster3
+vm160,-,-,_internal,admin,cluster3
+vm161,-,-,_internal,admin,cluster3
+vm162,-,-,_internal,admin,cluster3
+vm163,-,-,_internal,admin,cluster3
+vm164,-,-,_internal,admin,cluster3
+vm165,-,-,_internal,admin,cluster3
+vm166,"Overprovisioned,Constrained","Constrained: Max hourly average memory usage (96.73%) was above the maximum threshold (95%) for 5% of the time in the lookback period., Overprovisioned: Max hourly average CPU usage (17.71%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.",_internal,admin,cluster3
+vm167,-,-,_internal,admin,cluster3
+vm168,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.79%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm169,-,-,_internal,admin,cluster1
+vm170,-,-,_internal,admin,cluster2
+vm171,-,-,_internal,admin,cluster2
+vm172,-,-,_internal,admin,cluster1
+vm173,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.62%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm174,-,-,_internal,admin,cluster3
+vm175,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.91%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm176,-,-,_internal,admin,cluster2
+vm177,-,-,_internal,admin,cluster3
+vm178,-,-,_internal,admin,cluster3
+vm179,Overprovisioned,Overprovisioned: Max hourly average memory usage (44.45%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm180,-,-,_internal,admin,cluster2
+vm181,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.42%) was below the minimum threshold (20%) and max hourly average memory usage (35.48%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm182,-,-,_internal,admin,cluster3
+vm183,-,-,_internal,admin,cluster3
+vm184,-,-,_internal,admin,cluster3
+vm185,Overprovisioned,Overprovisioned: Max hourly average memory usage (23.93%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm186,Overprovisioned,Overprovisioned: Max hourly average memory usage (23.6%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm187,-,-,_internal,admin,cluster3
+vm188,-,-,_internal,admin,cluster3
+vm189,-,-,_internal,admin,cluster1
+vm190,-,-,_internal,admin,cluster1
+vm191,-,-,_internal,admin,cluster1
+vm192,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.98%) was below the minimum threshold (20%) and max hourly average memory usage (9.29%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster1
+vm193,-,-,_internal,admin,cluster2
+vm194,-,-,_internal,admin,cluster2
+vm195,-,-,_internal,admin,cluster2
+vm196,-,-,_internal,admin,cluster2
+vm197,-,-,_internal,admin,cluster2
+vm198,-,-,_internal,admin,cluster2
+vm199,-,-,_internal,admin,cluster2
+vm200,-,-,_internal,admin,cluster2
+vm201,-,-,_internal,admin,cluster2
+vm202,-,-,_internal,admin,cluster2
+vm203,-,-,_internal,admin,cluster2
+vm204,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.17%) was below the minimum threshold (20%) and max hourly average memory usage (40.17%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm205,-,-,_internal,admin,cluster2
+vm206,-,-,_internal,admin,cluster2
+vm207,-,-,_internal,admin,cluster2
+vm208,-,-,_internal,admin,cluster2
+vm209,-,-,_internal,admin,cluster2
+vm210,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.16%) was below the minimum threshold (20%) and max hourly average memory usage (43.0%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm211,-,-,_internal,admin,cluster2
+vm212,-,-,_internal,admin,cluster2
+vm213,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.78%) was below the minimum threshold (20%) and max hourly average memory usage (30.75%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm214,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.2%) was below the minimum threshold (20%) and max hourly average memory usage (28.65%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm215,-,-,_internal,admin,cluster2
+vm216,-,-,_internal,admin,cluster2
+vm217,-,-,_internal,admin,cluster2
+vm218,-,-,_internal,admin,cluster2
+vm219,-,-,_internal,admin,cluster2
+vm220,-,-,_internal,admin,cluster2
+vm221,-,-,_internal,admin,cluster2
+vm222,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.03%) was below the minimum threshold (20%) and max hourly average memory usage (45.01%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm223,-,-,_internal,admin,cluster2
+vm224,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.58%) was below the minimum threshold (20%) and max hourly average memory usage (48.08%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm225,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.43%) was below the minimum threshold (20%) and max hourly average memory usage (39.09%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm226,-,-,_internal,admin,cluster2
+vm227,-,-,_internal,admin,cluster2
+vm228,-,-,_internal,admin,cluster2
+vm229,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.02%) was below the minimum threshold (20%) and max hourly average memory usage (31.89%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm230,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.84%) was below the minimum threshold (20%) and max hourly average memory usage (32.09%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm231,Overprovisioned,Overprovisioned: Max hourly average CPU usage (3.71%) was below the minimum threshold (20%) and max hourly average memory usage (35.18%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm232,-,-,_internal,admin,cluster3
+vm233,Overprovisioned,Overprovisioned: Max hourly average CPU usage (6.31%) was below the minimum threshold (20%) and max hourly average memory usage (28.6%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm234,-,-,_internal,admin,cluster3
+vm235,Overprovisioned,Overprovisioned: Max hourly average CPU usage (6.03%) was below the minimum threshold (20%) and max hourly average memory usage (33.32%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm236,-,-,_internal,admin,cluster3
+vm237,-,-,_internal,admin,cluster3
+vm238,-,-,_internal,admin,cluster3
+vm239,-,-,_internal,admin,cluster3
+vm240,Overprovisioned,Overprovisioned: Max hourly average CPU usage (3.03%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm241,-,-,_internal,admin,cluster3
+vm242,-,-,_internal,admin,cluster3
+vm243,-,-,_internal,admin,cluster3
+vm244,-,-,_internal,admin,cluster3
+vm245,-,-,_internal,admin,cluster3
+vm246,-,-,_internal,admin,cluster3
+vm247,-,-,_internal,admin,cluster3
+vm248,-,-,_internal,admin,cluster3
+vm249,-,-,_internal,admin,cluster3
+vm250,-,-,_internal,admin,cluster3
+vm251,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.79%) was below the minimum threshold (20%) and max hourly average memory usage (16.04%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm252,-,-,_internal,admin,cluster3
+vm253,Overprovisioned,Overprovisioned: Max hourly average memory usage (22.82%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm254,Overprovisioned,Overprovisioned: Max hourly average memory usage (22.34%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm255,-,-,_internal,admin,cluster3
+vm256,-,-,_internal,admin,cluster3
+vm257,-,-,_internal,admin,cluster3
+vm258,-,-,_internal,admin,cluster3
+vm259,-,-,_internal,admin,cluster3
+vm260,-,-,_internal,admin,cluster3
+vm261,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.87%) was below the minimum threshold (20%) and max hourly average memory usage (28.49%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm262,-,-,_internal,admin,cluster3
+vm263,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.3%) was below the minimum threshold (20%) and max hourly average memory usage (30.39%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm264,-,-,_internal,admin,cluster3
+vm265,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.5%) was below the minimum threshold (20%) and max hourly average memory usage (27.4%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm266,-,-,_internal,admin,cluster3
+vm267,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.92%) was below the minimum threshold (20%) and max hourly average memory usage (31.06%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm268,-,-,_internal,admin,cluster3
+vm269,Overprovisioned,Overprovisioned: Max hourly average CPU usage (4.33%) was below the minimum threshold (20%) and max hourly average memory usage (32.28%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm270,-,-,_internal,admin,cluster3
+vm271,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.1%) was below the minimum threshold (20%) and max hourly average memory usage (32.29%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm272,-,-,_internal,admin,cluster3
+vm273,-,-,_internal,admin,cluster3
+vm274,-,-,_internal,admin,cluster3
+vm275,-,-,_internal,admin,cluster3
+vm276,-,-,_internal,admin,cluster3
+vm277,-,-,_internal,admin,cluster3
+vm278,-,-,_internal,admin,cluster3
+vm279,-,-,_internal,admin,cluster3
+vm280,-,-,_internal,admin,cluster3
+vm281,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.93%) was below the minimum threshold (20%) and max hourly average memory usage (17.1%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm282,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.14%) was below the minimum threshold (20%) and max hourly average memory usage (25.97%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm283,-,-,_internal,admin,cluster3
+vm284,-,-,_internal,admin,cluster3
+vm285,-,-,_internal,admin,cluster2
+vm286,-,-,_internal,admin,cluster2
+vm287,Overprovisioned,Overprovisioned: Max hourly average CPU usage (6.19%) was below the minimum threshold (20%) and max hourly average memory usage (24.69%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm288,-,-,_internal,admin,cluster2
+vm289,Overprovisioned,Overprovisioned: Max hourly average CPU usage (4.71%) was below the minimum threshold (20%) and max hourly average memory usage (19.41%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm290,Overprovisioned,Overprovisioned: Max hourly average CPU usage (5.73%) was below the minimum threshold (20%) and max hourly average memory usage (24.18%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm291,Overprovisioned,Overprovisioned: Max hourly average CPU usage (6.77%) was below the minimum threshold (20%) and max hourly average memory usage (24.75%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm292,-,-,_internal,admin,cluster2
+vm293,-,-,_internal,admin,cluster2
+vm294,-,-,_internal,admin,cluster2
+vm295,Overprovisioned,Overprovisioned: Max hourly average CPU usage (4.62%) was below the minimum threshold (20%) and max hourly average memory usage (17.41%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm296,Overprovisioned,Overprovisioned: Max hourly average CPU usage (6.13%) was below the minimum threshold (20%) and max hourly average memory usage (20.08%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm297,Overprovisioned,Overprovisioned: Max hourly average CPU usage (5.58%) was below the minimum threshold (20%) and max hourly average memory usage (24.56%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm298,-,-,_internal,admin,cluster2
+vm299,-,-,_internal,admin,cluster2
+vm300,-,-,_internal,admin,cluster3
+vm301,-,-,_internal,admin,cluster3
+vm302,Overprovisioned,Overprovisioned: Max hourly average CPU usage (8.07%) was below the minimum threshold (20%) and max hourly average memory usage (25.11%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm303,-,-,_internal,admin,cluster3
+vm304,-,-,_internal,admin,cluster3
+vm305,-,-,_internal,admin,cluster3
+vm306,-,-,_internal,admin,cluster3
+vm307,Overprovisioned,Overprovisioned: Max hourly average CPU usage (7.71%) was below the minimum threshold (20%) and max hourly average memory usage (21.02%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm308,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.84%) was below the minimum threshold (20%) and max hourly average memory usage (14.86%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm309,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.82%) was below the minimum threshold (20%) and max hourly average memory usage (14.74%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm310,-,-,_internal,admin,cluster3
+vm311,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.87%) was below the minimum threshold (20%) and max hourly average memory usage (14.84%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm312,-,-,_internal,admin,cluster3
+vm313,-,-,_internal,admin,cluster3
+vm314,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.87%) was below the minimum threshold (20%) and max hourly average memory usage (17.32%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm315,-,-,_internal,admin,cluster2
+vm316,-,-,_internal,admin,cluster2
+vm317,-,-,_internal,admin,cluster3
+vm318,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.75%) was below the minimum threshold (20%) and max hourly average memory usage (24.62%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm319,Overprovisioned,Overprovisioned: Max hourly average CPU usage (19.39%) was below the minimum threshold (20%) and max hourly average memory usage (25.91%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm320,Overprovisioned,Overprovisioned: Max hourly average CPU usage (0.56%) was below the minimum threshold (20%) and max hourly average memory usage (10.93%) was below the minimum threshold (20%) for 99.5% of the time in the lookback period.,_internal,admin,cluster2
+vm321,-,-,_internal,admin,cluster3
+vm322,-,-,_internal,admin,cluster3
+vm323,-,-,_internal,admin,cluster3
+vm324,-,-,_internal,admin,cluster3
+vm325,Overprovisioned,Overprovisioned: Max hourly average CPU usage (1.52%) was below the minimum threshold (20%) and max hourly average memory usage (32.27%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm326,Overprovisioned,Overprovisioned: Max hourly average CPU usage (2.14%) was below the minimum threshold (20%) and max hourly average memory usage (42.86%) was below the minimum threshold (50%) for 99.5% of the time in the lookback period.,_internal,admin,cluster3
+vm327,-,-,_internal,admin,cluster2
+vm328,-,-,,,cluster1
+vm329,-,-,,,cluster1
+vm330,-,-,,,cluster1
+vm331,NA,,,,cluster1
+vm332,NA,,,,cluster1
+vm333,-,-,,,cluster1
+vm334,NA,,,,cluster1
+vm335,-,-,,,cluster1
+vm336,-,-,,,cluster1
+vm337,NA,,,,cluster1
+vm338,-,-,,,cluster1
+vm339,-,-,,,cluster1
+vm340,-,-,,,cluster1
+vm341,-,-,,,cluster1
+vm342,NA,,,,cluster3
+vm343,-,-,,,cluster3
+vm344,-,-,,,cluster3
+vm345,NA,,,,cluster3
+vm346,-,-,,,cluster3
+vm347,-,-,,,cluster3
+vm348,-,-,,,cluster2
+vm349,-,-,,,cluster2
+vm350,NA,,,,cluster2
+vm351,NA,,,,cluster2
+vm352,-,-,,,cluster2
+vm353,-,-,,,cluster2
+vm354,-,-,,,cluster2
+vm355,Inactive,Inactive: The VM was powered off for the last 92 days.,_internal,admin,cluster3
+vm356,Inactive,Inactive: The VM was powered off for the last 90 days.,_internal,admin,cluster2
+vm357,-,-,_internal,admin,cluster2
+vm358,-,-,_internal,admin,cluster1
